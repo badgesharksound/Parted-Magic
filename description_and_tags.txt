@@ -1,0 +1,28 @@
+============================================================
+  GITHUB REPOSITORY — DESCRIPTION & TOPICS
+============================================================
+
+DESCRIPTION:
+------------------------------------------------------------
+Parted Magic — bootable disk suite with GParted, Clonezilla, and secure erase tools. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.
+
+============================================================
+
+TOPICS / TAGS:
+------------------------------------------------------------
+bootable-partition
+data-tools
+disk-management
+disk-tools
+live-cd
+parted-magic
+parted-magic-2026
+parted-magic-download
+secure-erase
+windows-tools-2026
+
+============================================================
+
+SEO KEYWORDS:
+------------------------------------------------------------
+parted magic, parted magic download, parted magic 2026, parted magic, parted magic download, parted magic 2026, bootable partition, secure erase, clonezilla, free software 2026, pc software download
